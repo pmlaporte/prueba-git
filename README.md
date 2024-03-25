@@ -1,4 +1,4 @@
-# prueba-git
+# repositorio uno prueba-git
 Pruebas prácticas para uso de GIT 
 
 # descripción
